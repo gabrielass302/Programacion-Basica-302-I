@@ -13,3 +13,6 @@ int main()
   return 0;
 }
 ```
+
+Bienvenida gabriela a programacion basica en c++
+Gracias por programar en clase
